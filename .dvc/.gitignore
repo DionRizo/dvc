@@ -1,5 +1,5 @@
 /config.local
 /tmp
 /cache
-data/data.txt
-data/data 2.txt
+.dvc/data/data 2.txt
+.dvc/data/data.txt
